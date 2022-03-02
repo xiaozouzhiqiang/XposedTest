@@ -3,3 +3,5 @@ git add .
 git commit -m"note"
 
 git push origin master
+
+GIT CLONE [SSH]
